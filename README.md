@@ -1,0 +1,2 @@
+# burnpalette
+A palette
