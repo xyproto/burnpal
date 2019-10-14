@@ -4,11 +4,11 @@ import (
 	"image/color"
 )
 
+// Palette is a slice of NRGBA colors
 type Palette []color.NRGBA
 
-// This is the default palette from the open source drawing program
+// Pal is the default palette from the open source drawing program
 // named "Burn". https://burn.sf.net/
-//
 var Pal = Palette{
 	{0x0, 0x0, 0x0, 0xFF},    // 0
 	{0x50, 0x50, 0x50, 0xFF}, // 1
