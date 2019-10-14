@@ -24,4 +24,3 @@ A predefined palette, inspired by my old pixling program for DOS.
 * License: MIT
 * Version: 1.0.0
 * Author: Alexander F. Rødseth &tl;xyproto@archlinux.org&gt;
-
