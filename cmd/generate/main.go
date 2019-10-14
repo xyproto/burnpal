@@ -5,7 +5,7 @@ package main
 
 import (
 	"github.com/peterhellberg/gfx"
-	"github.com/xyproto/burnpalette"
+	"github.com/xyproto/burnpal"
 )
 
 func createPaletteImage(fn string, palette gfx.Palette) error {
@@ -33,6 +33,6 @@ func createSimplexImage(fn string, palette gfx.Palette) error {
 }
 
 func main() {
-	createPaletteImage("gfx-burn-palette.png", gfx.Palette(burnpalette.Pal))
-	createSimplexImage("gfx-burn-simplex.png", gfx.Palette(burnpalette.Pal))
+	createPaletteImage("gfx-burn-palette.png", burnpal.GfxPalette())
+	createSimplexImage("gfx-burn-simplex.png", burnpal.GfxPalette())
 }

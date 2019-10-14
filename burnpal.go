@@ -1,4 +1,4 @@
-package burnpalette
+package burnpal
 
 import (
 	"image/color"
