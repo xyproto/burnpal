@@ -11,6 +11,8 @@ A predefined palette, inspired by my old pixling program for DOS.
 
 ![palette](img/palette.png)
 
+![palette](igm/burn-unsorted.png)
+
 ![palette](img/gfx-burn-palette.png)
 
 ![palette](img/gfx-burn-simplex.png)
