@@ -1,2 +1,2 @@
-# github.com/peterhellberg/gfx v0.0.0-20191011152831-b91a0de61948
-github.com/peterhellberg/gfx
+# github.com/xyproto/gfx v1.0.0
+github.com/xyproto/gfx

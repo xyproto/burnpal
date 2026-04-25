@@ -4,7 +4,7 @@ package main
 // https://github.com/peterhellberg/gfx/pull/3#issuecomment-491432866
 
 import (
-	"github.com/peterhellberg/gfx"
+	"github.com/xyproto/gfx"
 	"github.com/xyproto/burnpal"
 )
 
