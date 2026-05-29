@@ -1,2 +1,2 @@
-github.com/xyproto/gfx v1.0.0 h1:QXHH7ceDPPXqokad3vymj0U3mttLqUBxhcgGgxipOsM=
-github.com/xyproto/gfx v1.0.0/go.mod h1:C17tSfsHHIX2AUISfDFPkxxjI/DUtN3DsN+4LwRcZm0=
+github.com/peterhellberg/gfx v0.0.0-20260528221839-3f985a9df2a8 h1:D2GtBHuSjFDv55DBliwi3FzR/7g3/PitasBvgWOiBp4=
+github.com/peterhellberg/gfx v0.0.0-20260528221839-3f985a9df2a8/go.mod h1:qGp0boEPIQQgCfeuqotDqMoj4bZjWMdPW3Fc+BjzOdk=
